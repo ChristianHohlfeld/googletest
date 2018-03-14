@@ -1,3 +1,6 @@
+ä ignore Debug folder
+GTest/Debug/
+
 # Ignore CI build directory
 build/
 xcuserdata
@@ -38,3 +41,7 @@ googletest/m4/lt~obsolete.m4
 # Ignore generated directories.
 googlemock/fused-src/
 googletest/fused-src/
+*.log
+*.log
+*.tlog
+*.log
