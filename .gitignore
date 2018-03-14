@@ -1,6 +1,8 @@
 # ignore Debug folder
 **/GTest/GameTests/Debug/
 **/GameTests/Debug/
+**/GTest/Debug/
+**/GTest/GTest/Debug
 **/Debug/
 **GTest/GTest/Debug/
 **GTest/GameTests/Debug
