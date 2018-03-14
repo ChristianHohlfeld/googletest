@@ -1,5 +1,5 @@
 ä ignore Debug folder
-GTest/Debug/
+GTest/GameTests/Debug/
 
 # Ignore CI build directory
 build/
