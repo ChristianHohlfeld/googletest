@@ -2,10 +2,18 @@
 **/GTest/GameTests/Debug/
 **/GameTests/Debug/
 **/Debug/
+**GTest/GTest/Debug/
+**GTest/GameTests/Debug
+**GameTests/Debug
+**Debug
 !GTest/GameTests/Debug/
+!GTest/GTest/Debug/
+!GTest/Debug/
 !GameTests/Debug/
 !Debug/
-
+!GTest/GameTests/Debug
+!GameTests/Debug
+!Debug
 
 
 # Ignore CI build directory
