@@ -2,6 +2,9 @@
 **/GTest/GameTests/Debug/
 **/GameTests/Debug/
 **/Debug/
+!GTest/GameTests/Debug/
+!GameTests/Debug/
+!Debug/
 
 
 
