@@ -11,7 +11,10 @@ bazel-testlogs
 # python
 *.pyc
 
+#googletest
 *.ipch
+GTest/GTest/x64/
+GTest/GameTests/x64/
 
 # Visual Studio files
 *.sdf
