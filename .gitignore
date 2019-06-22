@@ -11,6 +11,8 @@ bazel-testlogs
 # python
 *.pyc
 
+*.ipch
+
 # Visual Studio files
 *.sdf
 *.opensdf
