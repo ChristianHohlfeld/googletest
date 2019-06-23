@@ -8,5 +8,5 @@ int square(const int value)
 TEST(SquareTests, Square)
 {
 	EXPECT_EQ(0, square(0));
-	EXPECT_EQ(4, square(-1));
+	EXPECT_EQ(4, square(2));
 }
