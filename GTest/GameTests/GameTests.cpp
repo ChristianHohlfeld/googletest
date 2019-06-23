@@ -1,4 +1,5 @@
 #include "gtest\gtest.h"
+
 #pragma once
 int square(const int value)
 {
